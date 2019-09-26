@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>suzanne.obj</file>
+        <file>duck.fbx</file>
+        <file>cube.fbx</file>
+        <file>cube.gltf</file>
+        <file>cube_buffer.bin</file>
+    </qresource>
+</RCC>

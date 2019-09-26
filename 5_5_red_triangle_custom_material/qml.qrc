@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Scene.qml</file>
+        <file>CustomEffect.qml</file>
+        <file>CustomMaterial.qml</file>
+        <file>shaders/SimpleFragmentShader.frag</file>
+        <file>shaders/SimpleVertexShader.vert</file>
+        <file>Triangle.qml</file>
+    </qresource>
+</RCC>
